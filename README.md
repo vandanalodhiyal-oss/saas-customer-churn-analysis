@@ -29,9 +29,9 @@ Python (pandas, numpy, matplotlib, seaborn), Jupyter Notebook in VS Code
 6. **Higher bills, higher churn.** Churned customers paid 74.44 on average vs 61.27 for retained customers.
 
 ## Charts
-![Churn by Contract](images/churn_by_contract.png)
-![Tenure by Churn](images/tenure_by_churn.png)
-![Monthly Charges by Churn](images/monthly_charges_by_churn.png)
+![Churn by Contract](churn_by_contract.png)
+![Tenure by Churn](tenure_by_churn.png)
+![Monthly Charges by Churn](monthly_charges_by_churn.png)
 
 ## Recommendations
 1. Improve **onboarding in the first 12 months** (welcome calls, early check-ins, support).
@@ -49,7 +49,6 @@ Python (pandas, numpy, matplotlib, seaborn), Jupyter Notebook in VS Code
 - `churn_analysis.ipynb`: full analysis
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv`: raw data
 - `telco_churn_clean.csv`: cleaned data
-- `images/`: chart images
 
 ## Author
 Vandana Lodhiyal
