@@ -45,10 +45,5 @@ Python (pandas, numpy, matplotlib, seaborn), Jupyter Notebook in VS Code
 - This is a sample dataset, so results may differ for other companies.
 - No usage or support-ticket data was available.
 
-## Files
-- `churn_analysis.ipynb`: full analysis
-- `WA_Fn-UseC_-Telco-Customer-Churn.csv`: raw data
-- `telco_churn_clean.csv`: cleaned data
-
 ## Author
 Vandana Lodhiyal
